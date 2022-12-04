@@ -1,4 +1,4 @@
-<img src="banner.gif" width="280px" align="right" >
+<img src="banner.gif" width="235px" align="right" >
 
 # ☄ Olá! Eu sou o Matheus!
 
