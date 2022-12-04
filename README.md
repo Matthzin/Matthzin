@@ -2,7 +2,7 @@
 
 # ☄ Olá! Eu sou o Matheus!
 
-Sou estudante e desenvolvedor de sistemas back-end e front-end. <br>
+Sou estudante e desenvolvedor de sistemas em back-end e front-end. <br>
 Amo tecnologia e gosto de aprender coisas novas!
 
 - 👨‍💻 Desenvolvedor .NET com C#
