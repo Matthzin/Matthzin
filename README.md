@@ -1,16 +1,14 @@
-### Hi there 👋
+# ☄ Olá! Eu sou o Matheus!
 
-<!--
-**Matthzin/Matthzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante e desenvolvedor de sistemas back-end e front-end. <br>
+Amo tecnologia e gosto de aprender coisas novas!
 
-Here are some ideas to get you started:
+- 👨‍💻 Desenvolvedor .NET com C#
+- 💻 Desenvolvedor HTML e CSS
+- 📘 Estudante de back e front-end
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css3" alt="css3" width="40" height="40"/>
+</div>          
