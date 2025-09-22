@@ -2,11 +2,10 @@
 <h3>A person passionate by technology</h3>
 <img src="banner.gif" width="225px" align="right" >
 
-🔭 I’m currently working on **college projects**
+🔭 I’m currently working on **my own projects**
 
 🌱 I’m currently learning **C#, JavaScript and React**
 
-⚡ Fun fact **I don't know any ;-;**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
